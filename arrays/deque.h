@@ -1,0 +1,8 @@
+//
+// Created by Toby on 30/03/2021.
+//
+
+#ifndef DATA_STRUCTURES_DEQUE_H
+#define DATA_STRUCTURES_DEQUE_H
+
+#endif //DATA_STRUCTURES_DEQUE_H
